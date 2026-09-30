@@ -43,14 +43,6 @@ A practical defensive security certification focused on SOC operations, phishing
 
 ---
 
-### eJPT
-
-An entry-level penetration testing certification focused on reconnaissance, enumeration, exploitation, web application testing, and basic post-exploitation.
-
-[View eJPT Guide](ejpt/README.md)
-
----
-
 ### eCIR
 
 An incident response certification focused on detecting, investigating, containing, and documenting security incidents.
@@ -74,6 +66,15 @@ A digital forensics certification focused on forensic investigation, Windows art
 [View eCDFP Guide](ecdfp/README.md)
 
 ---
+
+---
+
+### eJPT
+
+An entry-level penetration testing certification focused on reconnaissance, enumeration, exploitation, web application testing, and basic post-exploitation.
+
+[View eJPT Guide](ejpt/README.md)
+
 
 ## Information Accuracy
 
