@@ -1,244 +1,190 @@
-# Certification Name
+# CompTIA Security+ (SY0-701)
 
-> Last verified: YYYY-MM
-> Exam taken: YYYY-MM
-> Provider: Provider Name
+> Last verified: September 2026  
+> Exam taken: March 2026  
+> Exam version: SY0-701  
+> Provider: CompTIA  
+> Delivery: In-person testing center  
+> Focus: Cybersecurity Fundamentals  
+> My first professional cybersecurity certification
 
 ## Overview
 
-Briefly explain what the certification is, what area of cybersecurity it focuses on, and what level it targets.
+CompTIA Security+ is a vendor-neutral cybersecurity certification designed to establish a broad foundation across the major areas of information security.
 
-## Who Is This Certification For?
+It covers topics such as:
 
-Explain the intended audience.
+- Security principles
+- Threats and vulnerabilities
+- Security architecture
+- Identity and access management
+- Network security
+- Cryptography
+- Security operations
+- Incident response
+- Risk management
+- Governance and compliance
 
-Examples:
+Security+ was my first professional cybersecurity certification.
 
-- Students
-- SOC analysts
-- Penetration testers
-- Incident responders
-- Threat hunters
-- DFIR practitioners
+When I started preparing for it, I had no previous cybersecurity work experience and no real background in cybersecurity.
+
+Because of that, Security+ became the certification that built my initial foundation for everything I studied afterward.
+
+I completed the SY0-701 version of the exam in March 2026 at a physical testing center.
+
+---
+
+## My Background Before Security+
+
+Before Security+, I had:
+
+- No cybersecurity work experience
+- No SOC experience
+- No previous professional cybersecurity certification
+- No practical Blue Team experience
+- No offensive-security experience
+
+I was essentially starting from the beginning.
+
+This made the certification particularly important for me because most of the terminology, technologies, security principles, and attack concepts were new.
+
+Security+ gave me a structured introduction to the field rather than learning disconnected cybersecurity topics individually.
+
+---
+
+## Why Security+ Was Important for Me
+
+The biggest value of Security+ was not specializing in one particular cybersecurity role.
+
+Instead, it gave me a broad understanding of how the different areas of cybersecurity connect.
+
+Before studying for the certification, topics such as:
+
+- Firewalls
+- Encryption
+- Authentication
+- Vulnerabilities
+- Malware
+- Risk
+- Access control
+- Incident response
+- Network attacks
+- Security policies
+
+could easily appear to be unrelated subjects.
+
+Security+ helped organize them into a larger security picture.
+
+That foundation became extremely useful when I later moved into more practical certifications such as BTL1.
+
+---
+
+## Who Is Security+ For?
+
+Security+ is suitable for people who want a broad cybersecurity foundation before specializing.
+
+It can be useful for:
+
+- Cybersecurity students
+- IT students
+- People entering cybersecurity
+- Junior security professionals
+- Help desk or system administrators moving into security
+- People considering SOC roles
+- People considering penetration testing
+- People considering cloud security
+- People considering GRC
+- People who are still deciding which cybersecurity specialization to pursue
+
+Because it covers many areas rather than one narrow specialty, it can serve as an introduction to the cybersecurity field as a whole.
+
+---
 
 ## Prerequisite Knowledge
 
-List the knowledge that is useful before starting.
+There is no mandatory certification prerequisite for taking Security+.
 
-Examples:
+CompTIA recommends prior IT knowledge and experience, but it is possible to begin without professional cybersecurity experience.
 
-- Networking fundamentals
-- Linux basics
-- Windows fundamentals
-- TCP/IP
-- Web security
-- SIEM concepts
+That was my situation.
+
+I started Security+ without previous cybersecurity knowledge or work experience.
+
+This means someone starting from zero can still study for the certification, but they should expect to learn many new concepts at the same time.
+
+Useful background knowledge includes:
+
+- Basic networking
+- IP addresses
+- Ports and protocols
+- Operating systems
+- Basic computer hardware
+- Basic IT terminology
+
+If these areas are unfamiliar, they can be learned alongside Security+ preparation.
+
+---
 
 ## Exam Information
 
 | Item | Details |
 |---|---|
-| Provider | |
-| Exam name | |
-| Exam version | |
-| Exam type | |
-| Duration | |
-| Number of questions/tasks | |
-| Passing requirement | |
-| Price | |
-| Retake policy | |
-| Voucher validity | |
-| Certification validity | |
+| Certification | CompTIA Security+ |
+| Exam code | SY0-701 |
+| Provider | CompTIA |
+| Exam type | Multiple-choice questions + Performance-Based Questions |
+| Maximum questions | 90 |
+| Exam duration | 90 minutes |
+| Passing score | 750 / 900 |
+| Delivery | Pearson VUE test center or supported online proctoring |
+| My delivery method | In-person testing center |
+| Certification validity | 3 years |
+| Renewal | CompTIA Continuing Education program |
 
-## Exam Delivery
+The exam combines standard multiple-choice questions with Performance-Based Questions, commonly referred to as PBQs.
 
-Explain:
+PBQs are intended to test whether candidates can apply security concepts to a scenario rather than only recognize definitions.
 
-- Online or testing center
-- Proctored or unproctored
-- Practical lab or normal question interface
-- Whether it can be taken from home
-- Whether it is available internationally
+---
 
-## Technical Requirements
+## Official Exam Domains
 
-Document any requirements such as:
+The SY0-701 exam is divided into five major domains.
 
-- Operating system
-- Browser
-- Webcam
-- Microphone
-- VPN
-- Internet connection
-- Remote lab environment
+| Domain | Weight |
+|---|---:|
+| 1.0 General Security Concepts | 12% |
+| 2.0 Threats, Vulnerabilities, and Mitigations | 22% |
+| 3.0 Security Architecture | 18% |
+| 4.0 Security Operations | 28% |
+| 5.0 Security Program Management and Oversight | 20% |
 
-## Exam Format
+These percentages show that Security+ is not only a networking or purely technical-security exam.
 
-Explain the structure without revealing protected exam content.
+It also covers security architecture, operations, governance, risk, and security management.
 
-Examples:
+---
 
-- Multiple-choice questions
-- Performance-based questions
-- Practical lab tasks
-- Investigation scenarios
-- Report submission
+## 1. General Security Concepts
 
-## Official Domains
+This domain introduces many of the principles that appear throughout cybersecurity.
 
-List the official exam domains and percentages when available.
+Examples include:
 
-### Domain 1
+- Confidentiality
+- Integrity
+- Availability
+- Authentication
+- Authorization
+- Non-repudiation
+- Zero Trust
+- Physical security
+- Change management
+- Cryptography
+- Public Key Infrastructure
 
-Explain what this domain covers.
+### What I Learned
 
-### Domain 2
+For me, this section helped establish the language used throughout cybersecurity.
 
-Explain what this domain covers.
-
-### Domain 3
-
-Explain what this domain covers.
-
-## Skills Tested
-
-List the practical and theoretical skills tested by the certification.
-
-## Tools and Technologies
-
-Examples:
-
-- Wireshark
-- Nmap
-- Burp Suite
-- SIEM
-- Sysmon
-- PowerShell
-- Linux CLI
-- Volatility
-
-Only include tools relevant to the certification.
-
-## Allowed Resources During the Exam
-
-Document the official policy regarding:
-
-- Notes
-- Documentation
-- Search engines
-- External tools
-- Calculators
-- AI tools
-- Communication with others
-
-## Official Training and Labs
-
-Explain what official training material is available.
-
-Include:
-
-- Course
-- Labs
-- Practice exams
-- Learning paths
-- Documentation
-
-## Voucher and Retake Information
-
-Explain:
-
-- How the voucher works
-- Expiration
-- Number of attempts
-- Retake requirements
-- Waiting periods
-
-## Certification Validity and Renewal
-
-Explain whether the certification:
-
-- Expires
-- Requires continuing education
-- Requires renewal
-- Is valid indefinitely
-
-## Exam-Day Workflow
-
-Describe the process from starting the exam to receiving the result.
-
-Example:
-
-1. Log in
-2. Verify identity
-3. Launch exam
-4. Access lab environment
-5. Complete tasks
-6. Submit exam
-7. Receive result
-
-## Results and Certification Process
-
-Explain:
-
-- When results are available
-- How the certificate is issued
-- Whether a digital badge is provided
-- Where the certification can be verified
-
-## Important Things to Know Before Starting
-
-Include factual or practical information that candidates often overlook.
-
-## Frequently Asked Questions
-
-### Can I take the exam from home?
-
-Answer.
-
-### Is the exam practical?
-
-Answer.
-
-### Is the exam proctored?
-
-Answer.
-
-### Can I use Google or documentation?
-
-Answer.
-
-### Do I need the official training?
-
-Answer.
-
-### Can I take the exam from Saudi Arabia?
-
-Answer.
-
-### How long is the voucher valid?
-
-Answer.
-
-### Does the certification expire?
-
-Answer.
-
-## My Experience
-
-A short section describing your own experience.
-
-Keep this separate from official information.
-
-## Official Sources
-
-- Official certification page
-- Exam objectives
-- Candidate handbook
-- Exam policy
-- Training page
-
-## Disclaimer
-
-This guide does not contain leaked exam questions, answers, flags, or confidential exam material.
-
-Certification policies may change. Always verify important details using the certification provider's official website.
